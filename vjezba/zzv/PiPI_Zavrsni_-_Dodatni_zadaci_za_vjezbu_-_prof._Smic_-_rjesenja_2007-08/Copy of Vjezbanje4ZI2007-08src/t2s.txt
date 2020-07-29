@@ -1,0 +1,6 @@
+Ovo je test datoteka za tab2space program.
+1	2	3	4
+1 2 3 4
+5	6	7	8
+5 6 7 8
+KRAJ

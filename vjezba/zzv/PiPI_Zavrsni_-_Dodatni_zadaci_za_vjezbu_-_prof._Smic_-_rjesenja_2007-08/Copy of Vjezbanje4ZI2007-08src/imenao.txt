@@ -1,0 +1,6 @@
+Ana 1.00
+Janko 2.00
+Zak 3.00
+Nikola 4.00
+Bane 5.00
+Alen 6.00
